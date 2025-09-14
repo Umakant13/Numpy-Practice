@@ -1,0 +1,72 @@
+NumPy Practice Question Bank
+1. Array Creation & Basics
+
+Create a 1D array of integers from 10 to 50 with step 5.
+
+Create a 2D array (3×3) with values ranging from 1 to 9.
+
+Create an array of 10 zeros and an array of 10 ones.
+
+Generate an array of 20 random integers between 50 and 100.
+
+Create an identity matrix of size 4×4.
+
+2. Array Indexing & Slicing
+
+From the array [5,10,15,20,25,30], extract the elements at even positions.
+
+Slice a 3×3 matrix to get the last two columns.
+
+Replace all odd numbers in [1,2,3,4,5,6,7,8,9] with -1.
+
+Get the diagonal elements of a 4×4 random matrix.
+
+Extract all numbers greater than 50 from a random array of 15 integers (0–100).
+
+3. Mathematical & Statistical Operations
+
+Compute the mean, median, variance, and standard deviation of [4,6,8,10,12].
+
+Normalize a random array of 10 integers (convert values between 0 and 1).
+
+Find the sum of all elements, row-wise sum, and column-wise sum of a 3×3 matrix.
+
+Create two 3×3 matrices and perform element-wise multiplication and matrix multiplication.
+
+Generate a random array of 50 numbers and calculate the 25th, 50th, and 75th percentiles.
+
+4. Reshaping & Resizing
+
+Create an array of 12 elements and reshape it into a 3×4 matrix.
+
+Flatten a 2D array into a 1D array.
+
+Stack two arrays vertically and horizontally.
+
+Split a 1D array of 10 elements into 2 equal parts.
+
+Convert a 1D array [1,2,3,4,5,6] into a 2D array of shape (2,3).
+
+5. Boolean Indexing & Filtering
+
+From [1,2,0,0,4,0], get indices of non-zero elements (two methods).
+
+Filter all elements divisible by 3 from [3,6,7,9,12,14,18].
+
+Create a 5×5 matrix of random numbers and replace all numbers greater than 50 with 0.
+
+Find all even numbers from a random array of size 15.
+
+Replace negative values in a random array with their absolute values.
+
+6. Advanced NumPy Functions
+
+Create two random arrays and compute their dot product and cross product.
+
+Generate a 5×5 matrix with random integers and compute its determinant.
+
+Find eigenvalues and eigenvectors of a 3×3 matrix.
+
+Generate 1000 random numbers and plot their histogram using NumPy + Matplotlib.
+
+Use np.unique() to find unique elements and their counts in [1,2,2,3,3,3,4,4,4,4].
